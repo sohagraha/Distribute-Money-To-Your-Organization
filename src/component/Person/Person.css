@@ -1,0 +1,24 @@
+.personCard{
+    background-color: lightsalmon;
+    color: black;
+    line-height: normal;
+}
+.personCard img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+.detailsTxt{
+    margin:2px;
+}
+.calc{
+    font-size: larger;
+    font-weight: 700;
+    height: 50px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 5px solid lightseagreen;
+    background-color: rgb(161, 141, 132);
+}

@@ -1,0 +1,13 @@
+.headerBack{
+    background-color: rgba(211, 211, 211, 0.774);
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -40px;
+    border-radius: 15px;
+    font-size: larger;
+}
+.titleText{
+    padding-top: 35px;
+    font-weight: 700;
+}

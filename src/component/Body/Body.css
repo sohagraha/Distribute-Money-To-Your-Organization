@@ -1,0 +1,10 @@
+.bodyContainer{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    color: lightgrey;
+}
+.peopleList{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
