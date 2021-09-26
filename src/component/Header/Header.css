@@ -2,13 +2,11 @@
 .headerBack{
     background-color: rgba(78, 74, 74, 0.76);
     color: white;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: -40px;
-    border-radius: 15px;
+    margin-top: -50px;
+    padding-top: 20px;
     font-size: larger;
-    border: 2px solid orange;
-    margin-bottom: 20px;
+    border-bottom: 2px solid rgba(255, 166, 0, 0.575);
+    margin-bottom: 30px;
 }
 
 .million{
