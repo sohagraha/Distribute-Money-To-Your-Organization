@@ -1,6 +1,6 @@
 <ul>
-  <li>jsdjh<\li>
-<\ul>
+  <li>jsdjh</li>
+</ul>
 
 # Getting Started with Create React App
 
