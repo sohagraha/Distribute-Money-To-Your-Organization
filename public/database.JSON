@@ -115,5 +115,44 @@
         "departmen": "TE",
         "faculty": "FE",
         "salary": 42000
+    },
+    {
+        "sl": 10,
+        "id": 710000572,
+        "name": "Ms. Nawshin Farzana",
+        "email": "Farzana.te@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/82097780e6c440c894ef9c2bf57cd068.JPG",
+        "phone": "01711203056",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/te/nawshin.html",
+        "designation": "Assistant Professor ",
+        "departmen": "TE",
+        "faculty": "FE",
+        "salary": 52000
+    },
+    {
+        "sl": 11,
+        "id": 710001675,
+        "name": "Mr. Arif Mahmud",
+        "email": "arif.cse@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/d375cd51d4bfd14f5c7953f5fc92aac7.JPG",
+        "phone": "01687995727",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/cse/arif-mahmud.html",
+        "designation": "Assistant Professor ",
+        "departmen": "CSE",
+        "faculty": "FSIT",
+        "salary": 52000
+    },
+    {
+        "sl": 12,
+        "id": 710002586,
+        "name": "Ms. Faria Mannan Mithi",
+        "email": "mithi.ph@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/d0ee8ec6f07e4c4f1f1df26b84d7fbef.jpg",
+        "phone": "01620837027",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/pharmacy/mithi.html",
+        "designation": "Lecturer",
+        "departmen": "Pharmacy",
+        "faculty": "FAHS",
+        "salary": 32000
     }
 ]
