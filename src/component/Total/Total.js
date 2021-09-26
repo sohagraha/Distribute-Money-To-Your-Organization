@@ -11,14 +11,14 @@ const Total = (props) => {
         totalsalary = totalsalary + salary.salary;
     }
     return (
-        <div class="card text-center ms-3 me-3 background">
-            <div class="card-header text-black text-white">
+        <div className="card text-center ms-3 me-3 background">
+            <div className="card-header text-black text-white">
                 <h1 className='fw-bold border b-3 bg-secondar'>Total</h1>
                 <div className='bg-dark'>
                     <h2 className='bg-dark'>Transection : {total.length}</h2>
-                    <h2>Total Send : {totalsalary} Tk.</h2>
+                    <h5 className='pb-2'>Total Send : {totalsalary} TK</h5>
                 </div>
-                <h1 className='fw-bold border b-3 bg-secondar'>List</h1>
+                <h1 className='fw-bold border b-3 bg-secondar'>Transection History</h1>
             </div>
 
             {/* find the total list*/}
@@ -26,7 +26,7 @@ const Total = (props) => {
                 {
                     // pass the single person details from Total to Totalselected component to show the list of selected person
                     total.map(person => <TotalSelected
-                        key={person.name}
+                        key={person.sl}
                         person={person}
                     ></TotalSelected>)
                 }

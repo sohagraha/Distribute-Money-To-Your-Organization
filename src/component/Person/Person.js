@@ -22,12 +22,12 @@ const Person = (props) => {
 
                 </div>
                 <h5 className='df fw-bold mt-1'>Amount : <span className='txt-color'>{salary}</span> TK</h5>
-                <h5 className='mt-2'><i class="fas fa-envelope txt-color"></i> {email}</h5>
-                <h5 className='mt-2'><i class="fas fa-phone-square-alt txt-color"></i> {phone}</h5>
+                <h5 className='mt-2'><i className="fas fa-envelope txt-color"></i> {email}</h5>
+                <h5 className='mt-2'><i className="fas fa-phone-square-alt txt-color"></i> {phone}</h5>
                 {/* onClick function called when the button is clicked and "handeltotal" help to detecd the clicked iteam */}
-                <button onClick={() => props.handleTotal(props.person)} className='calc w-75 mx-auto fw-bold'>Send Money <i class="fas fa-paper-plane"></i></button>
+                <button onClick={() => props.handleTotal(props.person)} className='calc w-75 mx-auto fw-bold'>Send Money <i className="fas fa-paper-plane"></i></button>
 
-                <h3><a className='text-dec' target='blank' href="http://"><i class="fab fa-github-square text-black"></i> </a><a className='text-dec' target='blank' href="http://"> <i class="fab fa-linkedin text-black"></i> </a></h3>
+                <h3><a className='text-dec' target='blank' href="https://github.com/"><i className="fab fa-github-square text-black"></i> </a><a className='text-dec' target='blank' href="https://www.linkedin.com/"> <i className="fab fa-linkedin text-black"></i> </a></h3>
             </div>
         </div>
     );

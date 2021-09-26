@@ -4,7 +4,7 @@ import './TotalSelected.css'
 // get data and make a list of persons.
 
 const TotalSelected = (props) => {
-    const { name, img } = props.person;
+    const { name, img, salary } = props.person;
     return (
         <div className="card sideCard m-2 h-50">
             <div className="row g-0 bg-dark">
@@ -12,8 +12,9 @@ const TotalSelected = (props) => {
                     <img className='img-fluid' src={img} alt="" />
                 </div>
                 <div className="col-md-8">
-                    <div class="card-body">
+                    <div className="card-body">
                         <small>{name}</small>
+                        <p> Send : {salary} TK</p>
                     </div>
                 </div>
             </div>
