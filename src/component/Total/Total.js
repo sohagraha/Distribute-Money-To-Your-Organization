@@ -26,7 +26,7 @@ const Total = (props) => {
                 {
                     // pass the single person details from Total to Totalselected component to show the list of selected person
                     total.map(person => <TotalSelected
-                        key={person.sl}
+                        key={Math.random()}
                         person={person}
                     ></TotalSelected>)
                 }
