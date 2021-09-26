@@ -1,242 +1,119 @@
 [
     {
-        "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Kulas Light",
-            "suite": "Apt. 556",
-            "city": "Gwenborough",
-            "zipcode": "92998-3874",
-            "geo": {
-                "lat": "-37.3159",
-                "lng": "81.1496"
-            }
-        },
-        "phone": "1-770-736-8031 x56442",
-        "website": "hildegard.org",
-        "company": {
-            "name": "Romaguera-Crona",
-            "catchPhrase": "Multi-layered client-server neural-net",
-            "bs": "harness real-time e-markets"
-        }
+        "sl": 1,
+        "id": 710000168,
+        "name": "Prof. Dr. S.M. Mahbub Ul Haque Majumder",
+        "email": "mahbub@diu.edu.bd",
+        "img": "https://www.textiletoday.com.bd/wp-content/uploads/2021/08/Daffodil-International-University-S-M-Mahbub-Ul-Haque-Majumder-Pro-VC.jpg",
+        "phone": "01712-245179",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/cse/majumder.html",
+        "designation": "Dean",
+        "departmen": "CSE",
+        "faculty": "FSIT",
+        "salary": 100000
     },
     {
-        "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Victor Plains",
-            "suite": "Suite 879",
-            "city": "Wisokyburgh",
-            "zipcode": "90566-7771",
-            "geo": {
-                "lat": "-43.9509",
-                "lng": "-34.4618"
-            }
-        },
-        "phone": "010-692-6593 x09125",
-        "website": "anastasia.net",
-        "company": {
-            "name": "Deckow-Crist",
-            "catchPhrase": "Proactive didactic contingency",
-            "bs": "synergize scalable supply-chains"
-        }
+        "sl": 2,
+        "id": 710000267,
+        "name": "Dr. Md. Golam Mowla Choudhury",
+        "email": "gmcw9f@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/993a035a7ba9f009864be2a66a1ea14f.JPG",
+        "phone": "01819-836121",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/ete/golam.html",
+        "designation": "Professor ",
+        "departmen": "ETE",
+        "faculty": "FE",
+        "salary": 79000
     },
     {
-        "id": 3,
-        "name": "Clementine Bauch",
-        "username": "Samantha",
-        "email": "Nathan@yesenia.net",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Douglas Extension",
-            "suite": "Suite 847",
-            "city": "McKenziehaven",
-            "zipcode": "59590-4157",
-            "geo": {
-                "lat": "-68.6102",
-                "lng": "-47.0653"
-            }
-        },
-        "phone": "1-463-123-4447",
-        "website": "ramiro.info",
-        "company": {
-            "name": "Romaguera-Jacobson",
-            "catchPhrase": "Face to face bifurcated interface",
-            "bs": "e-enable strategic applications"
-        }
+        "sl": 3,
+        "id": 710000367,
+        "name": "Professor Dr. Md. Fokhray Hossain",
+        "email": "drfokhray@diu.edu.bd",
+        "img": "https://i1.rgstatic.net/ii/profile.image/734818295877634-1552205742446_Q512/Md-Hossain-344.jpg",
+        "phone": "9138234-5",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/cse/fokhray.html",
+        "designation": "Associate Dean",
+        "departmen": "CSE",
+        "faculty": "FSIT",
+        "salary": 90000
     },
     {
-        "id": 4,
-        "name": "Patricia Lebsack",
-        "username": "Karianne",
-        "email": "Julianne.OConner@kory.org",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Hoeger Mall",
-            "suite": "Apt. 692",
-            "city": "South Elvis",
-            "zipcode": "53919-4257",
-            "geo": {
-                "lat": "29.4572",
-                "lng": "-164.2990"
-            }
-        },
-        "phone": "493-170-9623 x156",
-        "website": "kale.biz",
-        "company": {
-            "name": "Robel-Corkery",
-            "catchPhrase": "Multi-tiered zero tolerance productivity",
-            "bs": "transition cutting-edge web services"
-        }
+        "sl": 4,
+        "id": 710001029,
+        "name": "Dr. Touhid Bhuiyan",
+        "email": "headcse@@diu.edu.bd",
+        "img": "https://cyberlawcybercrime.com/wp-content/uploads/2018/11/touhid-bhuiyan.jpg",
+        "phone": "+8801847140016",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/cse/touhid.html",
+        "designation": "Professor",
+        "departmen": "CSE",
+        "faculty": "FSIT",
+        "salary": 86000
     },
     {
-        "id": 5,
-        "name": "Chelsey Dietrich",
-        "username": "Kamren",
-        "email": "Lucio_Hettinger@annie.ca",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Skiles Walks",
-            "suite": "Suite 351",
-            "city": "Roscoeview",
-            "zipcode": "33263",
-            "geo": {
-                "lat": "-31.8129",
-                "lng": "62.5342"
-            }
-        },
-        "phone": "(254)954-1289",
-        "website": "demarco.info",
-        "company": {
-            "name": "Keebler LLC",
-            "catchPhrase": "User-centric fault-tolerant solution",
-            "bs": "revolutionize end-to-end systems"
-        }
+        "sl": 5,
+        "id": 710000504,
+        "name": "Mr. Syed Mizanur Rahman",
+        "email": "raju@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/2262a1eb2ef0ed6efc5d8eb3288040d9.JPG",
+        "phone": "01713493101",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/jmc/raju.html",
+        "designation": "Associate Professor",
+        "departmen": "JMC",
+        "faculty": "HSS",
+        "salary": 40000
     },
     {
-        "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-        "email": "Karley_Dach@jasper.info",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Norberto Crossing",
-            "suite": "Apt. 950",
-            "city": "South Christy",
-            "zipcode": "23505-1337",
-            "geo": {
-                "lat": "-71.4197",
-                "lng": "71.7478"
-            }
-        },
-        "phone": "1-477-935-8478 x6430",
-        "website": "ola.org",
-        "company": {
-            "name": "Considine-Lockman",
-            "catchPhrase": "Synchronised bottom-line interface",
-            "bs": "e-enable innovative applications"
-        }
+        "sl": 6,
+        "id": 710000878,
+        "name": "Ms. Nazmun Nessa Moon",
+        "email": "moon@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/8a0ecb2301d94830f09d8e900fbf1cba.JPG",
+        "phone": "01713191187",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/cse/nazmun-nessa-moon.html",
+        "designation": "Assistant Professor ",
+        "departmen": "CSE",
+        "faculty": "FSIT",
+        "salary": 55000
     },
     {
-        "id": 7,
-        "name": "Kurtis Weissnat",
-        "username": "Elwyn.Skiles",
-        "email": "Telly.Hoeger@billy.biz",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Rex Trail",
-            "suite": "Suite 280",
-            "city": "Howemouth",
-            "zipcode": "58804-1099",
-            "geo": {
-                "lat": "24.8918",
-                "lng": "21.8984"
-            }
-        },
-        "phone": "210.067.6132",
-        "website": "elvis.io",
-        "company": {
-            "name": "Johns Group",
-            "catchPhrase": "Configurable multimedia task-force",
-            "bs": "generate enterprise e-tailers"
-        }
+        "sl": 7,
+        "id": 710001691,
+        "name": "Dr. S. M. Abdur Rahman",
+        "email": "advisor.ph@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/da6a75f25edd3a2e7a9c1b7a2e3c957a.JPG",
+        "phone": "01732477343",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/pharmacy/smrahman.html",
+        "designation": "Advisor",
+        "departmen": "Pharmacy",
+        "faculty": "FAHS",
+        "salary": 88000
     },
     {
-        "id": 8,
-        "name": "Nicholas Runolfsdottir V",
-        "username": "Maxime_Nienow",
-        "email": "Sherwood@rosamond.me",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Ellsworth Summit",
-            "suite": "Suite 729",
-            "city": "Aliyaview",
-            "zipcode": "45169",
-            "geo": {
-                "lat": "-14.3990",
-                "lng": "-120.7677"
-            }
-        },
-        "phone": "586.493.6943 x140",
-        "website": "jacynthe.com",
-        "company": {
-            "name": "Abernathy Group",
-            "catchPhrase": "Implemented secondary concept",
-            "bs": "e-enable extensible e-tailers"
-        }
+        "sl": 8,
+        "id": 710002411,
+        "name": "Dr. Md. Mofizur Rahman",
+        "email": "mofizur.ph@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/b2b5624781a3595293ab6cbeabceb020.jpg",
+        "phone": "+8801771488692",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/pharmacy/Mofizur.html",
+        "designation": "Associate Dean",
+        "departmen": "Pharmacy",
+        "faculty": "FAHS",
+        "salary": 36000
     },
     {
-        "id": 9,
-        "name": "Glenna Reichert",
-        "username": "Delphine",
-        "email": "Chaim_McDermott@dana.io",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Dayna Park",
-            "suite": "Suite 449",
-            "city": "Bartholomebury",
-            "zipcode": "76495-3109",
-            "geo": {
-                "lat": "24.6463",
-                "lng": "-168.8889"
-            }
-        },
-        "phone": "(775)976-6794 x41206",
-        "website": "conrad.com",
-        "company": {
-            "name": "Yost and Sons",
-            "catchPhrase": "Switchable contextually-based project",
-            "bs": "aggregate real-time technologies"
-        }
-    },
-    {
-        "id": 10,
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-        "email": "Rey.Padberg@karina.biz",
-        "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg",
-        "address": {
-            "street": "Kattie Turnpike",
-            "suite": "Suite 198",
-            "city": "Lebsackbury",
-            "zipcode": "31428-2261",
-            "geo": {
-                "lat": "-38.2386",
-                "lng": "57.2232"
-            }
-        },
-        "phone": "024-648-3804",
-        "website": "ambrose.net",
-        "company": {
-            "name": "Hoeger LLC",
-            "catchPhrase": "Centralized empowering task-force",
-            "bs": "target end-to-end models"
-        }
+        "sl": 9,
+        "id": 710000827,
+        "name": "Ms. Fahmida Siddiqa",
+        "email": "Fahmidasiddiqa@diu.edu.bd",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/855e45212cbb619015c65c35bce4e68d.JPG",
+        "phone": "01676736822",
+        "website": "https://faculty.daffodilvarsity.edu.bd/profile/te/fahmida.html",
+        "designation": "Senior Lecturer",
+        "departmen": "TE",
+        "faculty": "FE",
+        "salary": 42000
     }
 ]

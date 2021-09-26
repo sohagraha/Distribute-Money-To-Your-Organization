@@ -1,10 +1,12 @@
+/* Devided the entire screen 3:1 ratio  */
 .bodyContainer{
     display: grid;
     grid-template-columns: 3fr 1fr;
     color: lightgrey;
 }
-.peopleList{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px;
+
+/* add a vertical line between two part  */
+.totalSum{
+    border-left: 1px double orange;
+    margin-left: 10px;
 }
