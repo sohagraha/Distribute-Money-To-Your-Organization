@@ -6,7 +6,6 @@ https://react-sohag.netlify.app/
 <br>
 <br>
 <h3>About</h3>
-<br>
 <ul>
   <li>This is simple project for manage and distribution of money to the DIU Faculty Members.</li>
   <li>Here the system will help us to track total transaction and total amount.</li>
